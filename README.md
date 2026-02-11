@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 Şu anda Oyunlaştırarak Öğrenme projesi üzerinde çalışıyoruz. 
 - 🌱 Şu an Unity öğreniyoruz.
 - 👯 Unity projelerinde işbirliği iyi olur.
 - 🤔 Etkili profil konusunda sorularımız var. 
 - 💬 Projelerimizin içerikleri Teknofest yarışmalarından sonra GitHub'da olacak.
 - 📫 E-Mail: teamintergalactic01@gmail.com
-- 😄 Pronouns: they-them
-- ⚡ Fun Fact: We are all as young as a secondary school student.
+- 😄 Zamir: Onlar
+- ⚡ İlginç Gerçek: 
 
 # 💫 Hakkımızda:
 Merhabalar! Biz Team: InterGalactic'iz. Hedefimiz Teknofest yarışmalarında başarı elde etmek ve daha önemlisi, geleceğimiz için çalışmaktır.<br>Şu anda aktif olarak yürüttüğümüz yaklaşık 10 adet çalışmamız var. Teknofest için insanlık yararına teknolojiler ve robolig kategorilerine katılıyoruz.
