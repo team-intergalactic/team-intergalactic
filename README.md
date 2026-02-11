@@ -1,4 +1,4 @@
-## Hi there 👋
+## Selamlar! 👋
 
 - 🔭 Şu anda Oyunlaştırarak Öğrenme projesi üzerinde çalışıyoruz. 
 - 🌱 Şu an Unity öğreniyoruz.
